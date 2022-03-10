@@ -1,5 +1,8 @@
 _repo: The-Book-of-Alfalfa-History-Cultivation-and-Merits-Its-Uses-as-a-Forage-and-Fertilizer_67533
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67533-h/images/cover.jpg
 creator:
   author:
     agent_name: Coburn, F. D. (Foster Dwight)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54182
     wikipedia: https://en.wikipedia.org/wiki/Foster_Dwight_Coburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67533#The-Book-of-Alfalfa-History-Cultivation-and-Merits-Its-Uses-as-a-Forage-and-Fertilizer
 gutenberg_issued: '2022-03-01'
 identifiers:
   gutenberg: '67533'
